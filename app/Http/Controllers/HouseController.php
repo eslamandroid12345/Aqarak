@@ -139,6 +139,7 @@ class HouseController extends Controller
                 $image->move(public_path().'/students/', $name);
                 $data[] = $name;
             }
+
         }
 
 
