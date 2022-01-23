@@ -14,9 +14,6 @@ class HouseController extends Controller
     use GeneralTrait;
 
 
-
-
-
     public function index(Request $request){
 
 

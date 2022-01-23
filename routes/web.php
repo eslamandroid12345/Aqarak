@@ -17,7 +17,8 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 |
 */
 
-//define('MXA_PAGINATE',21);
+
+define('MXA_PAGINATE',21);
 
 
 
@@ -91,6 +92,6 @@ Route::group(['prefix'=>'houses','middleware'=>'auth:web'], function (){
 
      });
 //end admin of dashboard
-
+//abdo
 
 //});
